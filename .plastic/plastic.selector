@@ -1,0 +1,4 @@
+repository "Computer Graphics From Scratch Book Practice@osmanpro@cloud"
+  path "/"
+    br "/main"
+    co "/main"
